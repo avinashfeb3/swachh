@@ -70,13 +70,13 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="about.html">About Us</a>
+                                <a class="nav-link" href="about.php">About Us</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="gallery.html">Gallery</a>
+                                <a class="nav-link" href="gallery.php">Gallery</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="action.html">Swachh Action Plan</a>
+                                <a class="nav-link" href="action.php">Swachh Action Plan</a>
                             </li>
                         </ul>
                     </div>
