@@ -10,7 +10,7 @@
     <!-- Bootstrap CSS v5.2.1 -->
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <!-- Favicon Link -->
-    <link rel="icon" type="image/x-icon" href="/images/logo.ico" />
+    <link rel="icon" type="image/x-icon" href="images/logo.ico" />
     <!-- Custom CSS Link -->
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/responsive.css" />

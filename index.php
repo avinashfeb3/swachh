@@ -8,92 +8,64 @@ include 'header.php';
     <main>
         <!-- Carousel Section Start -->
         <section class="banner_wrapper">
-             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active  mt-4 p-4 mb-3 pb-3">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-md-6">
-                                <div class="banner-title">
-                                    <h3 class="mt-2 pt-2 mb-2 pb-2">Discover the Swachh Bharat Mission</h3>
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active  mt-4 p-4 mb-3 pb-3">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-md-6">
+                                    <div class="banner-title">
+                                        <h3 class="mt-2 pt-2 mb-2 pb-2">Discover the Swachh Bharat Mission</h3>
+                                    </div>
+                                    <h2 class="mt-3 pt-3 mb-2 pb-2">Transforming India: Join the Swachh Bharat Movement
+                                        Today</h2>
+                                    <p>
+                                        The Swachh Bharat Mission, launched by the Indian government in 2014, is a
+                                        monumental
+                                        initiative aimed at achieving cleanliness and sanitation throughout the nation.
+                                        Rooted
+                                        in the vision of Mahatma Gandhi, who believed cleanliness to be next to
+                                        godliness,
+                                        the
+                                        mission seeks to address the pressing issue of poor sanitation and its adverse
+                                        effects
+                                        on health, environment, and socio-economic development.
+                                    </p>
+                                    <div>
+                                        <a href="about.html" class="view_btn">Read More</a>
+                                    </div>
                                 </div>
-                                <h2 class="mt-3 pt-3 mb-2 pb-2">Transforming India: Join the Swachh Bharat Movement
-                                    Today</h2>
-                                <p>
-                                    The Swachh Bharat Mission, launched by the Indian government in 2014, is a
-                                    monumental
-                                    initiative aimed at achieving cleanliness and sanitation throughout the nation.
-                                    Rooted
-                                    in the vision of Mahatma Gandhi, who believed cleanliness to be next to godliness,
-                                    the
-                                    mission seeks to address the pressing issue of poor sanitation and its adverse
-                                    effects
-                                    on health, environment, and socio-economic development.
-                                </p>
-                                <div>
-                                    <a href="about.html" class="view_btn">Read More</a>
+                                <div class="col-md-6 my-3 py-3">
+                                    <img src="images/slider/slider-img-1.jpg" class="d-block w-100" alt="slider 1"
+                                        class="img-fluid">
                                 </div>
-                            </div>
-                            <div class="col-md-6 my-3 py-3">
-                                <img src="images/slider/slider-img-1.jpg" class="d-block w-100" alt="slider 1"
-                                    class="img-fluid">
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="carousel-item  mt-4 p-4 mb-3 pb-3">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-md-6">
-                                <div class="banner-title">
-                                    <h3 class="mt-3 pt-3 mb-3 pb-3">Discover the Swachh Bharat Mission</h3>
-                                </div>
-                                <h2 class="mt-3 pt-3 mb-2 pb-2">Transforming India: Join the Swachh Bharat Movement
-                                    Today</h2>
-                                <p>
-                                    The Swachh Bharat Mission, launched by the Indian government in 2014, is a
-                                    monumental
-                                    initiative aimed at achieving cleanliness and sanitation throughout the nation.
-                                    Rooted
-                                    in the vision of Mahatma Gandhi, who believed cleanliness to be next to godliness,
-                                    the
-                                    mission seeks to address the pressing issue of poor sanitation and its adverse
-                                    effects
-                                    on health, environment, and socio-economic development.
-                                </p>
-                                <div>
-                                    <a href="about.html" class="view_btn">Read More</a>
-                                </div>
-                            </div>
-                            <div class="col-md-6 my-3 py-3">
-                                <img src="images/slider/slider-img-1.jpg" class="d-block w-100" alt="slider 2"
-                                    class="img-fluid">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item mt-4 p-4 mb-3 pb-3">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-md-6">
-                                <div class="banner-title">
-                                    <h3 class="mt-3 pt-3 mb-3 pb-3">Discover the Swachh Bharat Mission</h3>
-                                </div>
-                                <h2 class="mt-3 pt-3 mb-2 pb-2">Transforming India: Join the Swachh Bharat Movement
-                                    Today</h2>
-                                <p>
-                                    The Swachh Bharat Mission, launched by the Indian government in 2014, is a
-                                    monumental
-                                    initiative aimed at achieving cleanliness and sanitation throughout the nation.
-                                    Rooted
-                                    in the vision of Mahatma Gandhi, who believed cleanliness to be next to godliness,
-                                    the
-                                    mission seeks to address the pressing issue of poor sanitation and its adverse
-                                    effects
-                                    on health, environment, and socio-economic development.
-                                </p>
-                                <div>
-                                    <a href="about.html" class="view_btn">Read More</a>
+                    <div class="carousel-item  mt-4 p-4 mb-3 pb-3">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-md-6">
+                                    <div class="banner-title">
+                                        <h3 class="mt-3 pt-3 mb-3 pb-3">Discover the Swachh Bharat Mission</h3>
+                                    </div>
+                                    <h2 class="mt-3 pt-3 mb-2 pb-2">Transforming India: Join the Swachh Bharat Movement
+                                        Today</h2>
+                                    <p>
+                                        The Swachh Bharat Mission, launched by the Indian government in 2014, is a
+                                        monumental
+                                        initiative aimed at achieving cleanliness and sanitation throughout the nation.
+                                        Rooted
+                                        in the vision of Mahatma Gandhi, who believed cleanliness to be next to
+                                        godliness,
+                                        the
+                                        mission seeks to address the pressing issue of poor sanitation and its adverse
+                                        effects
+                                        on health, environment, and socio-economic development.
+                                    </p>
+                                    <div>
+                                        <a href="about.html" class="view_btn">Read More</a>
+                                    </div>
                                 </div>
                                 <div class="col-md-6 my-3 py-3">
                                     <img src="images/slider/slider-img-1.jpg" class="d-block w-100" alt="slider 2"
@@ -102,11 +74,42 @@ include 'header.php';
                             </div>
                         </div>
                     </div>
-                    <!-- Add more slides here -->
+                    <div class="carousel-item mt-4 p-4 mb-3 pb-3">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-md-6">
+                                    <div class="banner-title">
+                                        <h3 class="mt-3 pt-3 mb-3 pb-3">Discover the Swachh Bharat Mission</h3>
+                                    </div>
+                                    <h2 class="mt-3 pt-3 mb-2 pb-2">Transforming India: Join the Swachh Bharat Movement
+                                        Today</h2>
+                                    <p>
+                                        The Swachh Bharat Mission, launched by the Indian government in 2014, is a
+                                        monumental
+                                        initiative aimed at achieving cleanliness and sanitation throughout the nation.
+                                        Rooted
+                                        in the vision of Mahatma Gandhi, who believed cleanliness to be next to
+                                        godliness,
+                                        the
+                                        mission seeks to address the pressing issue of poor sanitation and its adverse
+                                        effects
+                                        on health, environment, and socio-economic development.
+                                    </p>
+                                    <div>
+                                        <a href="about.html" class="view_btn">Read More</a>
+                                    </div>
+                                    <div class="col-md-6 my-3 py-3">
+                                        <img src="images/slider/slider-img-1.jpg" class="d-block w-100" alt="slider 2"
+                                            class="img-fluid">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Add more slides here -->
+                    </div>
                 </div>
+                <!-- Carousel Section End -->
             </div>
-            <!-- Carousel Section End -->
-        </div>
         </section>
         <!-- Who we are section start -->
         <section class="aboutus_wrapper">
@@ -152,91 +155,111 @@ include 'header.php';
 
         <!-- Activities section start -->
         <section class="activities_wrapper polygon-shape">
-    <div class="container">
-        <div class="row">
-            <h4 class="align-items-center justify-content-center text-center">Activities Swachh Bharat Pakhwada</h4>
-            <ul class="nav nav-pills mt-2 pt-2 mb-3 mb-md-0 pb-3 align-items-center justify-content-center" id="pills-tab" role="tablist">
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="pills-client1-tab" data-bs-toggle="pill"
-                        data-bs-target="#pills-client1" type="button" role="tab" aria-controls="pills-client1"
-                        aria-selected="true">Client 1</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="pills-client2-tab" data-bs-toggle="pill"
-                        data-bs-target="#pills-client2" type="button" role="tab" aria-controls="pills-client2"
-                        aria-selected="false">Client 2</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="pills-client3-tab" data-bs-toggle="pill"
-                        data-bs-target="#pills-client3" type="button" role="tab" aria-controls="pills-client3"
-                        aria-selected="false">Client 3</button>
-                </li>
-            </ul>
-            <div class="tab-content" id="pills-tabContent">
-                <div class="tab-pane fade show active" id="pills-client1" role="tabpanel"
-                    aria-labelledby="pills-client1-tab" tabindex="0">
-                    <!-- Client 1 Content -->
-                    <div class="container">
+            <div class="container">
+                <div class="row">
+                    <h4 class="align-items-center justify-content-center text-center">Activities Swachh Bharat Pakhwada
+                    </h4>
+                    <ul class="nav nav-pills mt-2 pt-2 mb-3 mb-md-0 pb-3 align-items-center justify-content-center"
+                        id="v-pills-tab" role="tablist">
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link active" id="v-pills-client1-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-client1" type="button" role="tab"
+                                aria-controls="v-pills-client1" aria-selected="true">Client 1</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="v-pills-client2-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-client2" type="button" role="tab"
+                                aria-controls="v-pills-client2" aria-selected="false">Client 2</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="v-pills-client3-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-client3" type="button" role="tab"
+                                aria-controls="v-pills-client3" aria-selected="false">Client 3</button>
+                        </li>
+                    </ul>
+                    <div class="tab-content" id="v-pills-tabContent">
+                        <div class="tab-pane fade show active" id="v-pills-client1" role="tabpanel"
+                            aria-labelledby="v-pills-client1-tab" tabindex="0">
+                            <!-- Client 1 Content -->
+                            <div class="container">
                                 <div class="row">
-                                    <div class="col-md-3  mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity1.png" class="img-fluid" alt="activity 1">
-                                    </div>
-                                    <div class="col-md-3  mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity2.png" class="img-fluid" alt="activity 2">
-                                    </div>
-                                    <div class="col-md-3  mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity3.png" class="img-fluid" alt="activity 3">
-                                    </div>
-                                    <div class="col-md-3  mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity4.png" class="img-fluid" alt="activity 4">
+                                    <div class="partner-logos">
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity1.png" alt="Activity 1">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity2.png" alt="Activity 2">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity3.png" alt="Activity 3">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity3.png" alt="Activity 3">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity2.png" alt="Activity 2">
+                                        </div>
+                                        <!-- Add more partner logos as needed -->
                                     </div>
                                 </div>
                             </div>
-                </div>
-                <div class="tab-pane fade" id="pills-client2" role="tabpanel"
-                    aria-labelledby="pills-client2-tab" tabindex="0">
-                    <!-- Client 2 Content -->
-                    <div class="container">
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-client2" role="tabpanel"
+                            aria-labelledby="v-pills-client2-tab" tabindex="0">
+                            <!-- Client 2 Content -->
+                            <div class="container">
                                 <div class="row">
-                                    <div class="col-md-3  mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity1.png" class="img-fluid" alt="activity 1">
-                                    </div>
-                                    <div class="col-md-3  mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity2.png" class="img-fluid" alt="activity 2">
-                                    </div>
-                                    <div class="col-md-3  mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity3.png" class="img-fluid" alt="activity 3">
-                                    </div>
-                                    <div class="col-md-3  mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity4.png" class="img-fluid" alt="activity 4">
+                                <div class="partner-logos">
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity1.png" alt="Activity 1">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity2.png" alt="Activity 2">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity3.png" alt="Activity 3">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity3.png" alt="Activity 3">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity2.png" alt="Activity 2">
+                                        </div>
+                                        <!-- Add more partner logos as needed -->
                                     </div>
                                 </div>
                             </div>
-                </div>
-                <div class="tab-pane fade" id="pills-client3" role="tabpanel"
-                    aria-labelledby="pills-client3-tab" tabindex="0">
-                    <!-- Client 3 Content -->
-                    <div class="container">
+                        </div>
+                        <div class="tab-pane fade" id="v-pills-client3" role="tabpanel"
+                            aria-labelledby="v-pills-client3-tab" tabindex="0">
+                            <!-- Client 3 Content -->
+                            <div class="container">
                                 <div class="row">
-                                    <div class="col-md-3  mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity1.png" class="img-fluid" alt="activity 1">
-                                    </div>
-                                    <div class="col-md-3 mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity2.png" class="img-fluid" alt="activity 2">
-                                    </div>
-                                    <div class="col-md-3  mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity3.png" class="img-fluid" alt="activity 3">
-                                    </div>
-                                    <div class="col-md-3  mt-2 pt-2 mb-2 pb-2">
-                                        <img src="images/activities/activity4.png" class="img-fluid" alt="activity 4">
+                                <div class="partner-logos">
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity1.png" alt="Activity 1">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity2.png" alt="Activity 2">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity3.png" alt="Activity 3">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity3.png" alt="Activity 3">
+                                        </div>
+                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                            <img src="images/activities/activity2.png" alt="Activity 2">
+                                        </div>
+                                        <!-- Add more partner logos as needed -->
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
-</section>
+        </section>
 
         <!-- Activities section End -->
 

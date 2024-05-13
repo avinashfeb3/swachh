@@ -63,6 +63,7 @@
             autoplay: true,
             autoplaySpeed: 500,
             dots: false,
+            arrows: false,
             responsive: [
                 {
                     breakpoint: 992,
