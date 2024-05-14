@@ -2,7 +2,7 @@
     <div class="container">
       <div class="row mb-5">
         <div class="col-md-4 mb-5">
-          <h2>Swachh Bharat Mission</h2>
+          <h2 class="text-lg-start">Swachh Bharat Mission</h2>
           <p class="text-white">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
           </p>
@@ -14,7 +14,7 @@
           </ul>
         </div>
         <div class="col-md-4 mb-5">
-          <h2> Quick Links</h2>
+          <h2 class="text-lg-start"> Quick Links</h2>
           <ul class="list-unstyled footer-link">
             <li><a href="Index.html" style="text-decoration: none;">Home</a></li>
             <li><a href="packages.html" style="text-decoration: none;">About Us</a></li>
@@ -23,7 +23,7 @@
           </ul>
         </div>
         <div class="col-md-4 mb-5">
-          <h2> Other Links</h2>
+          <h2 class="text-lg-start"> Other Links</h2>
           <ul class="list-unstyled footer-link">
             <li><a href="Index.html" style="text-decoration: none;">Copyright Policy</a></li>
             <li><a href="packages.html" style="text-decoration: none;">Web Information Manager</a></li>

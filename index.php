@@ -17,7 +17,7 @@ include 'header.php';
                                     <div class="banner-title">
                                         <h3 class="mt-2 pt-2 mb-2 pb-2">Discover the Swachh Bharat Mission</h3>
                                     </div>
-                                    <h2 class="mt-3 pt-3 mb-2 pb-2">Transforming India: Join the Swachh Bharat Movement
+                                    <h2 class="mt-3 pt-3 mb-2 pb-2 mx-3 text-start">Transforming India: Join the Swachh Bharat Movement
                                         Today</h2>
                                     <p>
                                         The Swachh Bharat Mission, launched by the Indian government in 2014, is a
@@ -47,7 +47,7 @@ include 'header.php';
                             <div class="row align-items-center">
                                 <div class="col-md-6">
                                     <div class="banner-title">
-                                        <h3 class="mt-3 pt-3 mb-3 pb-3">Discover the Swachh Bharat Mission</h3>
+                                        <h3 class="mt-3 pt-3 mb-3 pb-3  mx-3 text-start">Discover the Swachh Bharat Mission</h3>
                                     </div>
                                     <h2 class="mt-3 pt-3 mb-2 pb-2">Transforming India: Join the Swachh Bharat Movement
                                         Today</h2>
@@ -79,7 +79,7 @@ include 'header.php';
                             <div class="row align-items-center">
                                 <div class="col-md-6">
                                     <div class="banner-title">
-                                        <h3 class="mt-3 pt-3 mb-3 pb-3">Discover the Swachh Bharat Mission</h3>
+                                        <h3 class="mt-3 pt-3 mb-3 pb-3  mx-3 text-start">Discover the Swachh Bharat Mission</h3>
                                     </div>
                                     <h2 class="mt-3 pt-3 mb-2 pb-2">Transforming India: Join the Swachh Bharat Movement
                                         Today</h2>

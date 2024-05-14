@@ -5,6 +5,14 @@
     padding: 12px 25px;
     font-size: 15px;
   }
+
+  /* About CSS */
+  .about_wrapper h2{
+    margin: -4.5rem 0 1.25rem 0;
+      font-size: 56px;
+      text-align: center;
+      line-height: 1.3;
+  }
 }
 
 /* Media Query 991px */
