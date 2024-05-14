@@ -136,7 +136,7 @@ Default Btn Area Style*/
   background-color: #1e328a;
   color: #ffffff;
   border-radius: 77px;
-  width: 23%;
+  width: 67%;
   font-size: 16px;
   margin: 10px 10px;
   padding: 7px 7px;
@@ -588,6 +588,33 @@ h2 {
   left: 10px; /* Adjust left position as needed */
   width: 30px; /* Adjust width as needed */
 }
+
+/* Action CSS */
+.table_wrapper .card{
+  box-shadow: 10px 10px 8px 7px rgba(0, 0, 0, 0.25);
+  background-color: transparent;
+}
+.table_wrapper th{
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+/* Gallery CSS Section */
+.main_wrapper{
+    margin: 3rem 2rem;
+}
+.main_wrapper .card{
+    background-color: transparent;
+    border-bottom-left-radius: 7%;
+    border-bottom-right-radius: 28%;
+    border-top-left-radius: 30%;
+    box-shadow: 7px 7px 5px 3px rgba(0, 0, 0, 0.25);
+
+}
+
+
+
+
 
 /* Footer CSS */
 .site-footer {
