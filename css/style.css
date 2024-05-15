@@ -454,7 +454,15 @@ hr {
 .partner-logos {
   margin: 20px auto;
 }
-
+.partners_wrapper h2{
+  font-size: 2rem;
+  line-height: 1;
+  margin-top: 0.25rem;
+  margin-bottom: 1.25rem;
+  letter-spacing: 0.1875rem;
+  color: #000;
+  text-align: center;
+}
 .partner-logo img {
   max-width: 100%;
   height: auto;

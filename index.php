@@ -414,12 +414,12 @@ include 'header.php';
         <!-- latest activity section start  -->
 
         <!-- Partner Section start -->
-        <section>
+        <section class="partners_wrapper">
             <div class="container">
                 <div class="row">
                     <div class="col">
                         <h2>Our Partners</h2>
-                        <div class="partner-logos">
+                        <div class="partner-logos mt-3 mb-3 pt-3 pb-3">
                             <div class="partner-logo"><img src="./images/partner/partner1.png" alt="Partner Logo 1">
                             </div>
                             <div class="partner-logo"><img src="./images/partner/partner2.png" alt="Partner Logo 2">
