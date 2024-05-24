@@ -227,17 +227,18 @@ hr {
 
 .banner-title h3 {
   color: #ffffff;
-  font-size: 17px;
+  font-size: 15px;
   margin-left: 20px;
 }
 
 .carousel-inner .carousel-item h2 {
   color: black;
-  font-size: 37px;
+  font-size: 27px;
   font-family: Inter;
   font-weight: 700;
   /* margin-left: 3rem; */
   text-align: left;
+  line-height: 1.3;
 
 }
 

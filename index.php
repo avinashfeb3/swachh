@@ -14,10 +14,10 @@ include 'header.php';
                         <div class="container">
                             <div class="row align-items-center">
                                 <div class="col-md-6">
-                                    <div class="banner-title">
-                                        <h3 class="mt-2 pt-2 mb-2 pb-2">Discover the Swachh Bharat Mission</h3>
+                                    <div class="banner-title w-50">
+                                        <h3 class="mt-2 pt-2 mb-2 pb-2 mx-2 text-start">Discover the Swachh Bharat Mission</h3>
                                     </div>
-                                    <h2 class="mt-3 pt-3 mb-2 pb-2 mx-3 text-start">Transforming India: Join the Swachh
+                                    <h2 class="mt-3 pt-3 mb-2 pb-2 mx-2 text-start">Transforming India: Join the Swachh
                                         Bharat Movement Today</h2>
                                     <p>
                                         The Swachh Bharat Mission, launched by the Indian government in 2014, is a
@@ -40,15 +40,15 @@ include 'header.php';
                             </div>
                         </div>
                     </div>
-                    <div class="carousel-item mt-2 p-2 mb-2 pb-2" data-bs-interval="5000">
+                    <div class="carousel-item mt-2 p-2 mb-2 pb-2" data-bs-interval="500">
                         <div class="container">
                             <div class="row align-items-center">
                                 <div class="col-md-6">
-                                    <div class="banner-title">
-                                        <h3 class="mt-3 pt-3 mb-3 pb-3 mx-3 text-start">Discover the Swachh Bharat
+                                    <div class="banner-title w-50">
+                                        <h3 class="mt-2 pt-2 mb-2 pb-2 mx-2 text-start">Discover the Swachh Bharat
                                             Mission</h3>
                                     </div>
-                                    <h2 class="mt-3 pt-3 mb-2 pb-2">Transforming India: Join the Swachh Bharat Movement
+                                    <h2 class="mt-3 pt-3 mb-2 pb-2 mx-2 text-start">Transforming India: Join the Swachh Bharat Movement
                                         Today</h2>
                                     <p>
                                         The Swachh Bharat Mission, launched by the Indian government in 2014, is a
@@ -67,37 +67,6 @@ include 'header.php';
                                 <div class="col-md-6 my-3 py-3">
                                     <img src="images/slider/slider-img-1.jpg" class="d-block w-100 img-fluid"
                                         alt="slider 2">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item mt-2 p-2 mb-2 pb-2" data-bs-interval="500">
-                        <div class="container">
-                            <div class="row align-items-center">
-                                <div class="col-md-6">
-                                    <div class="banner-title">
-                                        <h3 class="mt-3 pt-3 mb-3 pb-3 mx-3 text-start">Discover the Swachh Bharat
-                                            Mission</h3>
-                                    </div>
-                                    <h2 class="mt-3 pt-3 mb-2 pb-2">Transforming India: Join the Swachh Bharat Movement
-                                        Today</h2>
-                                    <p>
-                                        The Swachh Bharat Mission, launched by the Indian government in 2014, is a
-                                        monumental initiative aimed at achieving cleanliness and sanitation throughout
-                                        the nation.
-                                        Rooted in the vision of Mahatma Gandhi, who believed cleanliness to be next to
-                                        godliness,
-                                        the mission seeks to address the pressing issue of poor sanitation and its
-                                        adverse effects
-                                        on health, environment, and socio-economic development.
-                                    </p>
-                                    <div>
-                                        <a href="about.html" class="view_btn w-25">Read More</a>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 my-3 py-3">
-                                    <img src="images/slider/slider-img-1.jpg" class="d-block w-100 img-fluid"
-                                        alt="slider 3">
                                 </div>
                             </div>
                         </div>
