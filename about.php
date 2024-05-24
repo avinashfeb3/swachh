@@ -59,7 +59,7 @@ include 'header.php';
   <!-- About Swachh Bharat Section End -->
 
   <!-- Counter Section Start -->
-  <section class="counter_wrapper mt-5 mb-3 pt-5 pb-3">
+  <!-- <section class="counter_wrapper mt-5 mb-3 pt-5 pb-3">
     <div class="container">
       <div class="row">
         <div class="col">
@@ -94,7 +94,7 @@ include 'header.php';
       </div>
     </div>
 
-  </section>
+  </section> -->
   <!-- Counter Section End -->
 
   <!-- Reviews Secton Start  -->

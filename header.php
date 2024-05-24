@@ -25,33 +25,6 @@
 <body>
     <header id="full_nav">
         <div class="header fixed-top">
-            <div class="top-bar">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-10 col-md-10 mail-info mt-2 pt-2 mb-2 pb-2">
-                            <a href="mailto:info@example.com">
-                                <i class="fas fa-at"></i>
-                                info@example.com
-                            </a>
-                        </div>
-                        <div class="col-lg-2 col-md-2 mt-1 pt-1">
-                            <div class="dropdown">
-                                <button class="btn login-btn dropdown-toggle" type="button" id="dropdownMenuButton"
-                                    data-bs-toggle="dropdown" aria-expanded="false">
-                                    Login
-                                </button>
-                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <li><a class="dropdown-item" href="sign.php">Sign In</a></li>
-                                    <li><a class="dropdown-item" href="register.php">Register</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <hr />
-            </div>
             <div class="container">
                 <nav class="navbar navbar-expand-lg">
                     <a class="navbar-brand" href="index.php">
@@ -78,9 +51,19 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="action.php">Swachh Action Plan</a>
                             </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Login
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="login.php">Register</a></li>
+                                    <li><a class="dropdown-item" href="login.php">Login</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </div>
-                </nav>
             </div>
+            </nav>
+        </div>
         </div>
     </header>
