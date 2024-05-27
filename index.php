@@ -354,81 +354,82 @@ include 'header.php';
 
         <!-- latest activity section start  -->
         <section class="latest_wrapper">
-    <div class="container">
-        <div class="row row-cols-1 row-cols-md-3 g-4">
-            <div class="col-lg-12">
-                <h4 class="text-center align-items-center justify-content-center">Latest Activity</h4>
-            </div>
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="images/activities/activity5.png" class="card-img-top" alt="activity 5">
-                    <div class="card_activity">
-                        <div class="card-body">
-                            <span class="float-end">01-May-2024</span>
-                            <h5 class="card-title">Activity 1</h5>
+            <div class="container">
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+                    <div class="col-lg-12">
+                        <h4 class="text-center align-items-center justify-content-center">Latest Activity</h4>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="images/activities/activity5.png" class="card-img-top" alt="activity 5">
+                            <div class="card_activity">
+                                <div class="card-body">
+                                    <span class="float-end">01-May-2024</span>
+                                    <h5 class="card-title">Activity 1</h5>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="images/activities/activity6.png" class="card-img-top" alt="activity 6">
-                    <div class="card_activity">
-                        <div class="card-body">
-                            <span class="float-end">01-May-2024</span>
-                            <h5 class="card-title">Activity 2</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="images/activities/activity7.png" class="card-img-top" alt="activity 7">
-                    <div class="card_activity">
-                        <div class="card-body">
-                            <span class="float-end">01-May-2024</span>
-                            <h5 class="card-title">Activity 3</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="images/activities/activity8.png" class="card-img-top" alt="activity 8">
-                    <div class="card_activity">
-                        <div class="card-body">
-                            <span class="float-end">01-May-2024</span>
-                            <h5 class="card-title">Activity 4</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="images/activities/activity9.png" class="card-img-top" alt="activity 9">
-                    <div class="card_activity">
-                        <div class="card-body">
-                            <span class="float-end">01-May-2024</span>
-                            <h5 class="card-title">Activity 5</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="images/activities/activity10.png" class="card-img-top" alt="activity 10">
-                    <div class="card_activity">
-                        <div class="card-body">
-                            <span class="float-end">01-May-2024</span>
-                            <h5 class="card-title">Activity 6</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="images/activities/activity6.png" class="card-img-top" alt="activity 6">
+                            <div class="card_activity">
+                                <div class="card-body">
+                                    <span class="float-end">01-May-2024</span>
+                                    <h5 class="card-title">Activity 2</h5>
 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="images/activities/activity7.png" class="card-img-top" alt="activity 7">
+                            <div class="card_activity">
+                                <div class="card-body">
+                                    <span class="float-end">01-May-2024</span>
+                                    <h5 class="card-title">Activity 3</h5>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="images/activities/activity8.png" class="card-img-top" alt="activity 8">
+                            <div class="card_activity">
+                                <div class="card-body">
+                                    <span class="float-end">01-May-2024</span>
+                                    <h5 class="card-title">Activity 4</h5>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="images/activities/activity9.png" class="card-img-top" alt="activity 9">
+                            <div class="card_activity">
+                                <div class="card-body">
+                                    <span class="float-end">01-May-2024</span>
+                                    <h5 class="card-title">Activity 5</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="images/activities/activity10.png" class="card-img-top" alt="activity 10">
+                            <div class="card_activity">
+                                <div class="card-body">
+                                    <span class="float-end">01-May-2024</span>
+                                    <h5 class="card-title">Activity 6</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </section>
         <!-- latest activity section start  -->
 
         <!-- Partner Section start -->
