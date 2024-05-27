@@ -21,7 +21,7 @@ include 'header.php';
                     <div class="carousel-item active">
                         <div class="container">
                             <div class="row align-items-center">
-                            <div class="col-md-6">
+                                <div class="col-md-6">
                                     <div class="banner-title w-50">
                                         <h3 class="mt-2 pt-2 mb-2 pb-2 mx-2 text-start">Discover the Swachh Bharat
                                             Mission</h3>
@@ -45,14 +45,14 @@ include 'header.php';
                                 <div class="col-md-6 my-3 py-3">
                                     <img src="images/slider/slider-img-1.jpg" class="d-block w-100 img-fluid"
                                         alt="slider 1">
-                                </div> 
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                    <div class="container">
+                        <div class="container">
                             <div class="row align-items-center">
-                            <div class="col-md-6">
+                                <div class="col-md-6">
                                     <div class="banner-title w-50">
                                         <h3 class="mt-2 pt-2 mb-2 pb-2 mx-2 text-start">Discover the Swachh Bharat
                                             Mission</h3>
@@ -76,14 +76,14 @@ include 'header.php';
                                 <div class="col-md-6 my-3 py-3">
                                     <img src="images/slider/slider-img-1.jpg" class="d-block w-100 img-fluid"
                                         alt="slider 1">
-                                </div> 
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                    <div class="container">
+                        <div class="container">
                             <div class="row align-items-center">
-                            <div class="col-md-6">
+                                <div class="col-md-6">
                                     <div class="banner-title w-50">
                                         <h3 class="mt-2 pt-2 mb-2 pb-2 mx-2 text-start">Discover the Swachh Bharat
                                             Mission</h3>
@@ -107,7 +107,7 @@ include 'header.php';
                                 <div class="col-md-6 my-3 py-3">
                                     <img src="images/slider/slider-img-1.jpg" class="d-block w-100 img-fluid"
                                         alt="slider 1">
-                                </div> 
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -198,19 +198,19 @@ include 'header.php';
                             <div class="container">
                                 <div class="row">
                                     <div class="partner-logos">
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity1.png" alt="Activity 1">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity2.png" alt="Activity 2">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity3.png" alt="Activity 3">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity3.png" alt="Activity 3">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity2.png" alt="Activity 2">
                                         </div>
                                         <!-- Add more partner logos as needed -->
@@ -218,25 +218,25 @@ include 'header.php';
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane" id="v-pills-client2" role="tabpanel"
-                            aria-labelledby="v-pills-client2-tab" tabindex="0">
+                        <div class="tab-pane" id="v-pills-client2" role="tabpanel" aria-labelledby="v-pills-client2-tab"
+                            tabindex="0">
                             <!-- Client 2 Content -->
                             <div class="container">
                                 <div class="row">
                                     <div class="partner-logos">
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity1.png" alt="Activity 1">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity2.png" alt="Activity 2">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity3.png" alt="Activity 3">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity3.png" alt="Activity 3">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity2.png" alt="Activity 2">
                                         </div>
                                         <!-- Add more partner logos as needed -->
@@ -244,25 +244,25 @@ include 'header.php';
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane" id="v-pills-client3" role="tabpanel"
-                            aria-labelledby="v-pills-client3-tab" tabindex="0">
+                        <div class="tab-pane" id="v-pills-client3" role="tabpanel" aria-labelledby="v-pills-client3-tab"
+                            tabindex="0">
                             <!-- Client 3 Content -->
                             <div class="container">
                                 <div class="row">
                                     <div class="partner-logos">
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity1.png" alt="Activity 1">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity2.png" alt="Activity 2">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity3.png" alt="Activity 3">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity3.png" alt="Activity 3">
                                         </div>
-                                        <div class="partner-logo col-md-3  mt-2 pt-2 mb-2 pb-2 mx-3">
+                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
                                             <img src="images/activities/activity2.png" alt="Activity 2">
                                         </div>
                                         <!-- Add more partner logos as needed -->
@@ -274,6 +274,21 @@ include 'header.php';
                 </div>
             </div>
         </section>
+
+        <!-- Modal -->
+        <div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="imageModalLabel">Image Preview</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <img src="" id="modalImage" class="img-fluid" alt="Modal Image">
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- Activities section End -->
 
@@ -339,92 +354,87 @@ include 'header.php';
 
         <!-- latest activity section start  -->
         <section class="latest_wrapper">
-            <div class="container">
-                <div class="row row-cols-1 row-cols-md-3 g-4">
-                    <div class="col-lg-12">
-                        <h4 class="text-center align-items-center justify-content-center">Latest Activity</h4>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="card">
-                            <img src="images/activities/activity5.png" class="card-img-top" alt="activity 5">
-                            <div class="card_activity">
-                                <div class="card-body">
-                                    <span class="float-end">01-May-2024</span>
-                                    <h5 class="card-title">Activity 1</h5>
-                                    <p class="card-text">This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.</p>
-                                </div>
+        <div class="container">
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                <div class="col-lg-12">
+                    <h4 class="text-center align-items-center justify-content-center">Latest Activity</h4>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="images/activities/activity5.png" class="card-img-top" alt="activity 5">
+                        <div class="card_activity">
+                            <div class="card-body">
+                                <span class="float-end">01-May-2024</span>
+                  <h5 class="card-title">Activity 1</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="card">
-                            <img src="images/activities/activity6.png" class="card-img-top" alt="activity 6">
-                            <div class="card_activity">
-                                <div class="card-body">
-                                    <span class="float-end">01-May-2024</span>
-                                    <h5 class="card-title">Activity 2</h5>
-                                    <p class="card-text">This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.</p>
-                                </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="images/activities/activity6.png" class="card-img-top" alt="activity 6">
+                        <div class="card_activity">
+                            <div class="card-body">
+                                <span class="float-end">01-May-2024</span>
+                                <h5 class="card-title">Activity 2</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="card">
-                            <img src="images/activities/activity7.png" class="card-img-top" alt="activity 7">
-                            <div class="card_activity">
-                                <div class="card-body">
-                                    <span class="float-end">01-May-2024</span>
-                                    <h5 class="card-title">Activity 3</h5>
-                                    <p class="card-text">This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.</p>
-                                </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="images/activities/activity7.png" class="card-img-top" alt="activity 7">
+                        <div class="card_activity">
+                            <div class="card-body">
+                                <span class="float-end">01-May-2024</span>
+                                <h5 class="card-title">Activity 3</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="card">
-                            <img src="images/activities/activity8.png" class="card-img-top" alt="activity 8">
-                            <div class="card_activity">
-                                <div class="card-body">
-                                    <span class="float-end">01-May-2024</span>
-                                    <h5 class="card-title">Activity 4</h5>
-                                    <p class="card-text">This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.</p>
-                                </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="images/activities/activity8.png" class="card-img-top" alt="activity 8">
+                        <div class="card_activity">
+                            <div class="card-body">
+                                <span class="float-end">01-May-2024</span>
+                                <h5 class="card-title">Activity 4</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="card">
-                            <img src="images/activities/activity9.png" class="card-img-top" alt="activity 9">
-                            <div class="card_activity">
-                                <div class="card-body">
-                                    <span class="float-end">01-May-2024</span>
-                                    <h5 class="card-title">Activity 5</h5>
-                                    <p class="card-text">This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.</p>
-                                </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="images/activities/activity9.png" class="card-img-top" alt="activity 9">
+                        <div class="card_activity">
+                            <div class="card-body">
+                                <span class="float-end">01-May-2024</span>
+                                <h5 class="card-title">Activity 5</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="card">
-                            <img src="images/activities/activity10.png" class="card-img-top" alt="activity 10">
-                            <div class="card_activity">
-                                <div class="card-body">
-                                    <span class="float-end">01-May-2024</span>
-                                    <h5 class="card-title">Activity 6</h5>
-                                    <p class="card-text">This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.</p>
-                                </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="images/activities/activity10.png" class="card-img-top" alt="activity 10">
+                        <div class="card_activity">
+                            <div class="card-body">
+                                <span class="float-end">01-May-2024</span>
+                                <h5 class="card-title">Activity 6</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
+
         <!-- latest activity section start  -->
 
         <!-- Partner Section start -->

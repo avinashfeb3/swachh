@@ -71,7 +71,7 @@ include 'header.php';
       <div class="row">
         <div class="col-md-4">
           <div class="card mb-3">
-            <img src="https://dummyimage.com/100x100/cccccc/fff" class="card-img-top" alt="Image 1">
+            <img src="images/activities/activity1.png" class="card-img-top" alt="Image 1">
             <div class="card-body">
               <h5 class="card-title">STQC</h5>
               <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
@@ -81,7 +81,7 @@ include 'header.php';
         </div>
         <div class="col-md-4">
           <div class="card mb-3">
-            <img src="https://dummyimage.com/100x100/cccccc/fff" class="card-img-top" alt="Image 2">
+            <img src="images/activities/activity1.png" class="card-img-top" alt="Image 2">
             <div class="card-body">
               <h5 class="card-title">Meity</h5>
               <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
@@ -91,7 +91,7 @@ include 'header.php';
         </div>
         <div class="col-md-4">
           <div class="card mb-3">
-            <img src="https://dummyimage.com/100x100/cccccc/fff" class="card-img-top" alt="Image 3">
+            <img src="images/activities/activity1.png" class="card-img-top" alt="Image 3">
             <div class="card-body">
               <h5 class="card-title">Bisag</h5>
               <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
@@ -102,6 +102,21 @@ include 'header.php';
       </div>
     </div>
   </section>
+  
+  <!-- Modal -->
+<div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="imageModalLabel">Image Preview</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <img src="" id="modalImage" class="img-fluid" alt="Modal Image">
+            </div>
+        </div>
+    </div>
+</div>
   <!-- Gallery Item Showing Section End -->
 </body>
 

@@ -9,3 +9,22 @@ window.onscroll = function () {
 };
 
 
+// Home Image Modal Popup
+document.querySelectorAll('.partner-logo img').forEach(img => {
+  img.addEventListener('click', function() {
+      const modalImage = document.getElementById('modalImage');
+      modalImage.src = this.src;
+      const imageModal = new bootstrap.Modal(document.getElementById('imageModal'));
+      imageModal.show();
+  });
+});
+
+// Galley Page Modal Popup
+document.querySelectorAll('.card-img-top').forEach(img => {
+  img.addEventListener('click', function() {
+      const modalImage = document.getElementById('modalImage');
+      modalImage.src = this.src;
+      const imageModal = new bootstrap.Modal(document.getElementById('imageModal'));
+      imageModal.show();
+  });
+});
