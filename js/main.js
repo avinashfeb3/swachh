@@ -20,11 +20,12 @@ document.querySelectorAll('.partner-logo img').forEach(img => {
 });
 
 // Galley Page Modal Popup
-document.querySelectorAll('.card-img-top').forEach(img => {
-  img.addEventListener('click', function() {
-      const modalImage = document.getElementById('modalImage');
-      modalImage.src = this.src;
-      const imageModal = new bootstrap.Modal(document.getElementById('imageModal'));
-      imageModal.show();
-  });
+ // When the second modal is shown, hide the first modal
+ $('#secondModal').on('show.bs.modal', function () {
+  $('#firstModal').modal('hide');
+});
+
+// Optionally, show the first modal again when the second modal is hidden
+$('#secondModal').on('hidden.bs.modal', function () {
+  $('#firstModal').modal('show');
 });

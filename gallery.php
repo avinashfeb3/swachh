@@ -71,52 +71,52 @@ include 'header.php';
       <div class="row">
         <div class="col-md-4">
           <div class="card mb-3">
-            <img src="images/activities/activity1.png" class="card-img-top" alt="Image 1">
+            <img src="images/activities/activity1.png" class="card-img-top" alt="Image 1" data-bs-toggle="modal"
+              data-bs-target="#firstModal">
             <div class="card-body">
               <h5 class="card-title">STQC</h5>
               <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
             </div>
           </div>
-
         </div>
-        <div class="col-md-4">
-          <div class="card mb-3">
-            <img src="images/activities/activity1.png" class="card-img-top" alt="Image 2">
-            <div class="card-body">
-              <h5 class="card-title">Meity</h5>
-              <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-            </div>
-          </div>
+      </div>
+    </div>
+  </section>
 
+  <!-- First Modal -->
+  <div class="modal fade" id="firstModal" tabindex="-1" aria-labelledby="firstModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="firstModalLabel">Before Image</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
-        <div class="col-md-4">
-          <div class="card mb-3">
-            <img src="images/activities/activity1.png" class="card-img-top" alt="Image 3">
-            <div class="card-body">
-              <h5 class="card-title">Bisag</h5>
-              <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-            </div>
+        <div class="modal-body">
+          <img src="images/activities/activity1.png" class="card-img-top" alt="Image 2">
+          <div class="d-flex justify-content-center mt-2 mb-0 pt-2 pb-0">
+            <button type="button" class="btn modal_btn" data-bs-toggle="modal" data-bs-target="#secondModal">Click for
+              After Image</button>
           </div>
 
         </div>
       </div>
     </div>
-  </section>
-  
-  <!-- Modal -->
-<div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="imageModalLabel">Image Preview</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <img src="" id="modalImage" class="img-fluid" alt="Modal Image">
-            </div>
+  </div>
+
+  <!-- Second Modal -->
+  <div class="modal fade" id="secondModal" tabindex="-1" aria-labelledby="secondModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="secondModalLabel">After Image</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
+        <div class="modal-body">
+          <img src="images/activities/activity3.png" class="card-img-top" alt="Image 3">
+        </div>
+      </div>
     </div>
-</div>
+  </div>
   <!-- Gallery Item Showing Section End -->
 </body>
 

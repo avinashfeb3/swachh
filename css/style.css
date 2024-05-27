@@ -156,6 +156,23 @@ Default Btn Area Style*/
   background-color: #5D74D9;
   color: #ffffff;
 }
+
+/* Modal Btn */
+.modal_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e328a;
+  color: #ffffff;
+  border-radius: 77px;
+  width:40%;
+  font-size: 16px;
+}
+
+.modal_btn:hover {
+  background-color: #5D74D9;
+  color: #ffffff;
+}
 /* 01 navbar css */
 
 .header {
