@@ -8,14 +8,23 @@ include 'header.php';
     <main>
         <!-- Carousel Section Start -->
         <section class="banner_wrapper">
-            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+            <div id="carouselExampleIndicators" class="carousel slide">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+                        class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                        aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                        aria-label="Slide 3"></button>
+                </div>
                 <div class="carousel-inner">
-                    <div class="carousel-item active mt-2 p-3 mb-2 pb-2" data-bs-interval="500">
+                    <div class="carousel-item active">
                         <div class="container">
                             <div class="row align-items-center">
-                                <div class="col-md-6">
+                            <div class="col-md-6">
                                     <div class="banner-title w-50">
-                                        <h3 class="mt-2 pt-2 mb-2 pb-2 mx-2 text-start">Discover the Swachh Bharat Mission</h3>
+                                        <h3 class="mt-2 pt-2 mb-2 pb-2 mx-2 text-start">Discover the Swachh Bharat
+                                            Mission</h3>
                                     </div>
                                     <h2 class="mt-3 pt-3 mb-2 pb-2 mx-2 text-start">Transforming India: Join the Swachh
                                         Bharat Movement Today</h2>
@@ -36,20 +45,20 @@ include 'header.php';
                                 <div class="col-md-6 my-3 py-3">
                                     <img src="images/slider/slider-img-1.jpg" class="d-block w-100 img-fluid"
                                         alt="slider 1">
-                                </div>
+                                </div> 
                             </div>
                         </div>
                     </div>
-                    <div class="carousel-item mt-2 p-2 mb-2 pb-2" data-bs-interval="500">
-                        <div class="container">
+                    <div class="carousel-item">
+                    <div class="container">
                             <div class="row align-items-center">
-                                <div class="col-md-6">
+                            <div class="col-md-6">
                                     <div class="banner-title w-50">
                                         <h3 class="mt-2 pt-2 mb-2 pb-2 mx-2 text-start">Discover the Swachh Bharat
                                             Mission</h3>
                                     </div>
-                                    <h2 class="mt-3 pt-3 mb-2 pb-2 mx-2 text-start">Transforming India: Join the Swachh Bharat Movement
-                                        Today</h2>
+                                    <h2 class="mt-3 pt-3 mb-2 pb-2 mx-2 text-start">Transforming India: Join the Swachh
+                                        Bharat Movement Today</h2>
                                     <p>
                                         The Swachh Bharat Mission, launched by the Indian government in 2014, is a
                                         monumental initiative aimed at achieving cleanliness and sanitation throughout
@@ -66,18 +75,58 @@ include 'header.php';
                                 </div>
                                 <div class="col-md-6 my-3 py-3">
                                     <img src="images/slider/slider-img-1.jpg" class="d-block w-100 img-fluid"
-                                        alt="slider 2">
-                                </div>
+                                        alt="slider 1">
+                                </div> 
                             </div>
                         </div>
                     </div>
-                    <!-- Add more slides here -->
+                    <div class="carousel-item">
+                    <div class="container">
+                            <div class="row align-items-center">
+                            <div class="col-md-6">
+                                    <div class="banner-title w-50">
+                                        <h3 class="mt-2 pt-2 mb-2 pb-2 mx-2 text-start">Discover the Swachh Bharat
+                                            Mission</h3>
+                                    </div>
+                                    <h2 class="mt-3 pt-3 mb-2 pb-2 mx-2 text-start">Transforming India: Join the Swachh
+                                        Bharat Movement Today</h2>
+                                    <p>
+                                        The Swachh Bharat Mission, launched by the Indian government in 2014, is a
+                                        monumental initiative aimed at achieving cleanliness and sanitation throughout
+                                        the nation.
+                                        Rooted in the vision of Mahatma Gandhi, who believed cleanliness to be next to
+                                        godliness,
+                                        the mission seeks to address the pressing issue of poor sanitation and its
+                                        adverse effects
+                                        on health, environment, and socio-economic development.
+                                    </p>
+                                    <div>
+                                        <a href="about.html" class="view_btn w-25">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 my-3 py-3">
+                                    <img src="images/slider/slider-img-1.jpg" class="d-block w-100 img-fluid"
+                                        alt="slider 1">
+                                </div> 
+                            </div>
+                        </div>
+                    </div>
                 </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
             </div>
         </section>
 
         <!-- Who we are section start -->
-        <section class="aboutus_wrapper">
+        <!-- <section class="aboutus_wrapper">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
@@ -115,7 +164,7 @@ include 'header.php';
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Who we are section End -->
 
         <!-- Activities section start -->
@@ -143,7 +192,7 @@ include 'header.php';
                         </li>
                     </ul>
                     <div class="tab-content" id="v-pills-tabContent">
-                        <div class="tab-pane fade show active" id="v-pills-client1" role="tabpanel"
+                        <div class="tab-pane show active" id="v-pills-client1" role="tabpanel"
                             aria-labelledby="v-pills-client1-tab" tabindex="0">
                             <!-- Client 1 Content -->
                             <div class="container">
@@ -169,7 +218,7 @@ include 'header.php';
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="v-pills-client2" role="tabpanel"
+                        <div class="tab-pane" id="v-pills-client2" role="tabpanel"
                             aria-labelledby="v-pills-client2-tab" tabindex="0">
                             <!-- Client 2 Content -->
                             <div class="container">
@@ -195,7 +244,7 @@ include 'header.php';
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="v-pills-client3" role="tabpanel"
+                        <div class="tab-pane" id="v-pills-client3" role="tabpanel"
                             aria-labelledby="v-pills-client3-tab" tabindex="0">
                             <!-- Client 3 Content -->
                             <div class="container">

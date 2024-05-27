@@ -215,7 +215,8 @@ hr {
 /* Carousel Section CSS */
 .banner_wrapper {
   margin: 10px 0px;
-  padding: 75px 0px;
+  padding-top: 75px;
+  padding-bottom: 10px;
 }
 
 .carousel-inner .carousel-item .banner-title {
@@ -223,6 +224,19 @@ hr {
   width: 60%;
   height: 100%;
   border-radius: 77px;
+}
+.carousel-indicators button {
+  background-color: #5D74D9; /* Change this color to your preferred color */
+}
+.carousel-indicators .active {
+  background-color: #5D74D9; /* Change this color to your preferred color for the active indicator */
+}
+.carousel-control-prev-icon {
+  background-image: url('../images//slider/left-arrow.svg');
+}
+.carousel-control-next-icon {
+  background-image: url('../images//slider/right-arrow.svg');
+  color: #fff;
 }
 
 .banner-title h3 {
