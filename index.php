@@ -168,127 +168,100 @@ include 'header.php';
         <!-- Who we are section End -->
 
         <!-- Activities section start -->
-        <section class="activities_wrapper polygon-shape">
-            <div class="container">
-                <div class="row">
-                    <h4 class="align-items-center justify-content-center text-center">Activities Swachh Bharat Pakhwada
-                    </h4>
-                    <ul class="nav nav-pills mt-2 pt-2 mb-3 mb-md-0 pb-3 align-items-center justify-content-center"
-                        id="v-pills-tab" role="tablist">
-                        <li class="nav-item" role="presentation">
-                            <button class="nav-link active" id="v-pills-client1-tab" data-bs-toggle="pill"
-                                data-bs-target="#v-pills-client1" type="button" role="tab"
-                                aria-controls="v-pills-client1" aria-selected="true">Client 1</button>
-                        </li>
-                        <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="v-pills-client2-tab" data-bs-toggle="pill"
-                                data-bs-target="#v-pills-client2" type="button" role="tab"
-                                aria-controls="v-pills-client2" aria-selected="false">Client 2</button>
-                        </li>
-                        <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="v-pills-client3-tab" data-bs-toggle="pill"
-                                data-bs-target="#v-pills-client3" type="button" role="tab"
-                                aria-controls="v-pills-client3" aria-selected="false">Client 3</button>
-                        </li>
-                    </ul>
-                    <div class="tab-content" id="v-pills-tabContent">
-                        <div class="tab-pane show active" id="v-pills-client1" role="tabpanel"
-                            aria-labelledby="v-pills-client1-tab" tabindex="0">
-                            <!-- Client 1 Content -->
-                            <div class="container">
-                                <div class="row">
-                                    <div class="partner-logos">
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity1.png" alt="Activity 1">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity2.png" alt="Activity 2">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity3.png" alt="Activity 3">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity3.png" alt="Activity 3">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity2.png" alt="Activity 2">
-                                        </div>
-                                        <!-- Add more partner logos as needed -->
-                                    </div>
+        
+<section class="activities_wrapper polygon-shape">
+    <div class="container">
+        <div class="row">
+            <h4 class="align-items-center justify-content-center text-center">Activities Swachh Bharat Pakhwada</h4>
+            <ul class="nav nav-pills mt-2 pt-2 mb-3 mb-md-0 pb-3 align-items-center justify-content-center" id="v-pills-tab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="v-pills-client1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-client1" type="button" role="tab" aria-controls="v-pills-client1" aria-selected="true">Client 1</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="v-pills-client2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-client2" type="button" role="tab" aria-controls="v-pills-client2" aria-selected="false">Client 2</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="v-pills-client3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-client3" type="button" role="tab" aria-controls="v-pills-client3" aria-selected="false">Client 3</button>
+                </li>
+            </ul>
+            <div class="tab-content" id="v-pills-tabContent">
+                <div class="tab-pane show active" id="v-pills-client1" role="tabpanel" aria-labelledby="v-pills-client1-tab" tabindex="0">
+                    <div class="container">
+                        <div class="row">
+                            <div class="partner-logos">
+                                <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
+                                    <img src="images/activities/activity1.png" alt="Activity 1" class="activity-image" data-index="0">
                                 </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane" id="v-pills-client2" role="tabpanel" aria-labelledby="v-pills-client2-tab"
-                            tabindex="0">
-                            <!-- Client 2 Content -->
-                            <div class="container">
-                                <div class="row">
-                                    <div class="partner-logos">
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity1.png" alt="Activity 1">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity2.png" alt="Activity 2">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity3.png" alt="Activity 3">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity3.png" alt="Activity 3">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity2.png" alt="Activity 2">
-                                        </div>
-                                        <!-- Add more partner logos as needed -->
-                                    </div>
+                                <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
+                                    <img src="images/activities/activity2.png" alt="Activity 2" class="activity-image" data-index="1">
                                 </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane" id="v-pills-client3" role="tabpanel" aria-labelledby="v-pills-client3-tab"
-                            tabindex="0">
-                            <!-- Client 3 Content -->
-                            <div class="container">
-                                <div class="row">
-                                    <div class="partner-logos">
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity1.png" alt="Activity 1">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity2.png" alt="Activity 2">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity3.png" alt="Activity 3">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity3.png" alt="Activity 3">
-                                        </div>
-                                        <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
-                                            <img src="images/activities/activity2.png" alt="Activity 2">
-                                        </div>
-                                        <!-- Add more partner logos as needed -->
-                                    </div>
+                                <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
+                                    <img src="images/activities/activity3.png" alt="Activity 3" class="activity-image" data-index="2">
                                 </div>
+                                <!-- Add more partner logos as needed -->
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </section>
-
-        <!-- Modal -->
-        <div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="imageModalLabel">Image Preview</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                <div class="tab-pane" id="v-pills-client2" role="tabpanel" aria-labelledby="v-pills-client2-tab" tabindex="0">
+                    <div class="container">
+                        <div class="row">
+                            <div class="partner-logos">
+                                <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
+                                    <img src="images/activities/activity1.png" alt="Activity 1" class="activity-image" data-index="3">
+                                </div>
+                                <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
+                                    <img src="images/activities/activity2.png" alt="Activity 2" class="activity-image" data-index="4">
+                                </div>
+                                <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
+                                    <img src="images/activities/activity3.png" alt="Activity 3" class="activity-image" data-index="5">
+                                </div>
+                                <!-- Add more partner logos as needed -->
+                            </div>
+                        </div>
                     </div>
-                    <div class="modal-body">
-                        <img src="" id="modalImage" class="img-fluid" alt="Modal Image">
+                </div>
+                <div class="tab-pane" id="v-pills-client3" role="tabpanel" aria-labelledby="v-pills-client3-tab" tabindex="0">
+                    <div class="container">
+                        <div class="row">
+                            <div class="partner-logos">
+                                <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
+                                    <img src="images/activities/activity1.png" alt="Activity 1" class="activity-image" data-index="6">
+                                </div>
+                                <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
+                                    <img src="images/activities/activity2.png" alt="Activity 2" class="activity-image" data-index="7">
+                                </div>
+                                <div class="partner-logo col-md-3 mt-2 pt-2 mb-2 pb-2 mx-3">
+                                    <img src="images/activities/activity3.png" alt="Activity 3" class="activity-image" data-index="8">
+                                </div>
+                                <!-- Add more partner logos as needed -->
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</section>
+
+<!-- Modal -->
+<div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="imageModalLabel">Image Preview</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <img src="" id="modalImage" class="img-fluid" alt="Modal Image">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" id="prevBtn">Previous</button>
+                <button type="button" class="btn btn-primary" id="nextBtn">Next</button>
+            </div>
+        </div>
+    </div>
+</div>
 
         <!-- Activities section End -->
 
