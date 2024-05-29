@@ -158,6 +158,22 @@ Default Btn Area Style*/
 }
 
 /* Modal Btn */
+.modal-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e328a;
+  color: #ffffff;
+  border-radius: 77px;
+  width: 6%;
+  font-size: 18px;
+}
+
+.modal-btn:hover {
+  background-color: #5D74D9;
+  color: #ffffff;
+}
+
 .modal_btn {
   display: flex;
   justify-content: center;
@@ -165,8 +181,8 @@ Default Btn Area Style*/
   background-color: #1e328a;
   color: #ffffff;
   border-radius: 77px;
-  width:40%;
-  font-size: 16px;
+  width: 42%;
+  font-size: 18px;
 }
 
 .modal_btn:hover {

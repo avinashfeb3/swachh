@@ -256,8 +256,8 @@ include 'header.php';
                 <img src="" id="modalImage" class="img-fluid" alt="Modal Image">
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" id="prevBtn">Previous</button>
-                <button type="button" class="btn btn-primary" id="nextBtn">Next</button>
+                <button type="button" class="btn modal-btn" id="prevBtn"><i class="fas fa-chevron-circle-left"></i></button>
+                <button type="button" class="btn modal-btn" id="nextBtn"><i class="fas fa-chevron-circle-right"></i></button>
             </div>
         </div>
     </div>
